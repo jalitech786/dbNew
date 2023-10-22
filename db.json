@@ -4,19 +4,22 @@
       "id": 1,
       "thumb": "https://img.youtube.com/vi/dPqsP84GOwE/maxresdefault.jpg",
       "title": "Test 1",
-      "description": "Test 1 description from server"
+      "description": "Test 1 description from server",
+      "type": "laptop"
     },
     {
       "id": 2,
       "thumb": "https://img.youtube.com/vi/k8Q8SFlBCks/maxresdefault.jpg",
       "title": "Test 2",
-      "description": "Test 2 description from server"
+      "description": "Test 2 description from server",
+      "type": "mobile"
     },
     {
       "id": 3,
       "thumb": "https://img.youtube.com/vi/G9SwnMZ4SW4/maxresdefault.jpg",
       "title": "Test 3",
-      "description": "Test 2 description from server"
+      "description": "Test 2 description from server",
+      "type": "laptop"
     }
   ]
 }
