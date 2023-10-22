@@ -6,7 +6,7 @@
       "title": "Test 1",
       "description": "Test 1 description from server",
       "type": "laptop",
-      "price": "140000"
+      "price": 140000
     },
     {
       "id": 2,
@@ -14,7 +14,7 @@
       "title": "Test 2",
       "description": "Test 2 description from server",
       "type": "mobile",
-      "price": "140000"
+      "price": 120000
     },
     {
       "id": 3,
@@ -22,7 +22,7 @@
       "title": "Test 3",
       "description": "Test 2 description from server",
       "type": "laptop",
-      "price": "140000"
+      "price": 145000
     }
   ]
 }
